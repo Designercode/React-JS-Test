@@ -4,9 +4,9 @@
   "engines": {
     "node": "7.10.0"},
   "description": "My First React JS Web App",
-  "main": "/dev/index.js",
+  "main": "/dev/index.jsx",
   "scripts": {
-  	  "start": "node /dev/index.js"
+  	  "start": "node /dev/index.jsx"
   },
   "author": "April",
   "license": "ISC",
