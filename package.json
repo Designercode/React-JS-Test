@@ -1,8 +1,6 @@
 {
   "name": "mywebapp",
   "version": "1.0.0",
-  "scripts": {
-},
   "engines": {
     "node": "7.10.0"},
   "description": "My First React JS Web App",
