@@ -4,7 +4,7 @@
   "engines": {
     "node": "7.10.0"},
   "description": "My First React JS Web App",
-  "main": "index.js",
+  "main": "/dev/index.js",
   "scripts": {
   	  "start": "node index.js"
   },
