@@ -4,11 +4,11 @@
   "engines": {
     "node": "7.10.0"},
   "description": "My First React JS Web App",
-  "main": "index.jsx",
+  "main": "index.js",
   "scripts": {
-  	  "start": "node index.jsx"
+  	  "start": "node index.js"
   },
-  "author": "",
+  "author": "April",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.24.1",
