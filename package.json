@@ -6,7 +6,7 @@
   "description": "My First React JS Web App",
   "main": "/dev/index.js",
   "scripts": {
-  	  "start": "node index.js"
+  	  "start": "node /dev/index.js"
   },
   "author": "April",
   "license": "ISC",
